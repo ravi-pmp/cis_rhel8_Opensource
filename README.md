@@ -1,4 +1,4 @@
-CIS - RHEL 8 Based Systems
+CIS - RHEL 8 Based Systems opensource
 =========
 
 Asible role to apply CIS Benchmark on RHEL 8 based systems.
